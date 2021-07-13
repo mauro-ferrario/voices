@@ -1,0 +1,5 @@
+hello_world = interface +c {
+  static create(): scb_native;
+  get_say_hello(): void;
+  get_say_hello_2(): string;
+}
